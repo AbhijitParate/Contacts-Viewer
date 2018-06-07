@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="error_invalid_phone_number">Invalid phone number</string>
+    <string name="label_menu_save">Save</string>
+    <string name="label_menu_delete">Delete</string>
+    <string name="message_contact_deleted">Contact deleted</string>
+    <string name="label_menu_add">Add</string>
+    <string name="error_generic_message">Something went wrong</string>
+</resources>
